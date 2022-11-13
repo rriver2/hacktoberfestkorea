@@ -65,6 +65,9 @@
 ## 이전 행사 참여 후기 {#review-of-previous-event-participation}
 이전에 참여했던 분들중 후기를 쓰셨던 분들은 아래에 링크해 주시면 새로운 사람들이 둘러보는데 도움이 되겠습니다.
 
+2022년 후기
+- '오뚜기 리버리 개발 블로그'의 [헥토버페스트 첫 도전기](https://rriver2.tistory.com/entry/%ED%97%A5%ED%86%A0%EB%B2%84%ED%8E%98%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%A0%84%EA%B8%B0)
+
 2021년 후기
 
 - 'Mike Kim 개발 블로그'의 [2021 핵토버페스트 첫 참가기!](https://kys9261.github.io/2021/10/20/programming/life/2021-hacktoberfest/)
